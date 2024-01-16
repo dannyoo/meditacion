@@ -1,4 +1,3 @@
-```markdown
 # Fundraising Web Page
 
 ## Overview
